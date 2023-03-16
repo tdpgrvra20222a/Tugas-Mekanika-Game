@@ -6,9 +6,9 @@
 **1.	Space (Ruangan)**
 Terbagi menjadi beberapa ruangan dalam game:
 1)	Waiting room / Lobby
-   - 0/1 Dimension
+   - 0 Dimension
 3)	Character Creation 
-   - 0/1 dimension
+   - 0 dimension
 3)	Battleground map
    - Memiliki 3 Dimensi
    - Area yang terhubung berupa bangian 1 Map Penuh dengan Pengecilan Zona
