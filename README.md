@@ -1,6 +1,6 @@
 # Tugas-Mekanika-Game
 7 Mekanika Game
-</br>
+<br>
 ![image](https://user-images.githubusercontent.com/124869689/225519885-42029059-41a1-492b-a82d-8efccdf8ff06.png)
 </br>
 1.	Space (Ruangan)
