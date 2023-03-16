@@ -86,7 +86,7 @@ https://na.battlegrounds.pubg.com/roc-steam/
 ![image](https://user-images.githubusercontent.com/124869689/225520288-84dcc085-2300-49c9-b32e-969d98846777.png)
 
   - Air drop
-  - GACHA SKIN + EMOTE
+  - **GACHA SKIN + EMOTE**
 
 ![table](https://user-images.githubusercontent.com/124869689/225520464-d1dd469c-4718-4c08-ad3d-f192f96b57f8.PNG)
 
