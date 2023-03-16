@@ -74,8 +74,7 @@ Peraturan Un-Official:
 Peraturan Eksploitasi:
   Glitch Attachment
 
-**6.	Skill / Keterampilan
-**
+**6.	Skill / Keterampilan**
  ![image](https://user-images.githubusercontent.com/124869689/225520180-0bcd53f0-19a4-4791-bb4b-4e2b9fbd3453.png)
 
   Flanking
